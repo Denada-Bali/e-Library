@@ -5,7 +5,7 @@ to open the categories and upload the books in the system.
 And the user’s task is to be able to read, save, add to favorites and download books as well, as 
 leave comments about the relevant book.
 
-# Screenshots
+## Screenshots
 
 ![Screenshot_1659022856](https://user-images.githubusercontent.com/86987951/181580746-7bc7f7e3-6313-4868-9f76-feece2efcec2.png)
 
@@ -30,7 +30,7 @@ leave comments about the relevant book.
 
 ![Screenshot_1659022961](https://user-images.githubusercontent.com/86987951/181581831-2042bd32-0d80-440e-8e95-a8967c1795b0.png)
 
-# Video 
+## Video 
 
 https://user-images.githubusercontent.com/86987951/181579652-42e80f69-3735-4ec2-bfac-b415827ba73a.mp4
 

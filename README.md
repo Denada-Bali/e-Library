@@ -7,7 +7,7 @@ leave comments about the relevant book.
 
 ## Screenshots
 
-![Screenshot_1659022856](https://user-images.githubusercontent.com/86987951/181580746-7bc7f7e3-6313-4868-9f76-feece2efcec2.png)
+<img width="322" alt="2022-04-09_122409" src="![Screenshot_1659022856](https://user-images.githubusercontent.com/86987951/181580746-7bc7f7e3-6313-4868-9f76-feece2efcec2.png)
 
 ![Screenshot_1659023035](https://user-images.githubusercontent.com/86987951/181580831-4c093ccf-f859-442f-a381-c479cb3bf0c7.png)
 

@@ -7,28 +7,27 @@ leave comments about the relevant book.
 
 ## Screenshots
 
-<img width="322" alt="2022-04-09_122409" src="![Screenshot_1659022856](https://user-images.githubusercontent.com/86987951/181580746-7bc7f7e3-6313-4868-9f76-feece2efcec2.png)
+<img src=https://user-images.githubusercontent.com/86987951/181580746-7bc7f7e3-6313-4868-9f76-feece2efcec2.png width="400" height="790">
 
-![Screenshot_1659023035](https://user-images.githubusercontent.com/86987951/181580831-4c093ccf-f859-442f-a381-c479cb3bf0c7.png)
+<img src=https://user-images.githubusercontent.com/86987951/181580831-4c093ccf-f859-442f-a381-c479cb3bf0c7.png width="400" height="790">
 
-![Screenshot_1659023181](https://user-images.githubusercontent.com/86987951/181581215-8b3708a0-4cfc-4b92-aa56-01c988f1506f.png)
+<img src=https://user-images.githubusercontent.com/86987951/181581215-8b3708a0-4cfc-4b92-aa56-01c988f1506f.png width="400" height="790">
 
-![Screenshot_1659022871](https://user-images.githubusercontent.com/86987951/181580890-221ace11-1c2a-4f69-bbd5-f3f07261335d.png)
+<img src=https://user-images.githubusercontent.com/86987951/181580890-221ace11-1c2a-4f69-bbd5-f3f07261335d.png width="400" height="790">
 
-![Screenshot_1659022896](https://user-images.githubusercontent.com/86987951/181581238-b57b96d8-f44a-4ccb-adfc-152ddfa96903.png)
+<img src=https://user-images.githubusercontent.com/86987951/181581238-b57b96d8-f44a-4ccb-adfc-152ddfa96903.png width="400" height="790">
 
-![Screenshot_1659022902](https://user-images.githubusercontent.com/86987951/181581261-abf1dbe0-2ec6-4674-82c3-4cc4708e689a.png)
+<img src=https://user-images.githubusercontent.com/86987951/181581261-abf1dbe0-2ec6-4674-82c3-4cc4708e689a.png width="400" height="790">
 
-![Screenshot_1659022911](https://user-images.githubusercontent.com/86987951/181582668-907de885-ff14-49df-8175-7aa57084488c.png)
+<img src=https://user-images.githubusercontent.com/86987951/181582668-907de885-ff14-49df-8175-7aa57084488c.png width="400" height="790">
 
+<img src=https://user-images.githubusercontent.com/86987951/181582387-24ea395d-c8e0-41d7-916b-cde09ae9d7f7.png width="400" height="790">
 
-![Screenshot_1659022928](https://user-images.githubusercontent.com/86987951/181582387-24ea395d-c8e0-41d7-916b-cde09ae9d7f7.png)
+<img src=https://user-images.githubusercontent.com/86987951/181581758-26b1ee6f-8285-4245-924a-c10b086b7d3c.png width="400" height="790">
 
-![Screenshot_1659022938](https://user-images.githubusercontent.com/86987951/181581758-26b1ee6f-8285-4245-924a-c10b086b7d3c.png)
+<img src=https://user-images.githubusercontent.com/86987951/181581784-021b71b9-c7f8-46b0-b61b-34676e593ac4.png width="400" height="790">
 
-![Screenshot_1659022958](https://user-images.githubusercontent.com/86987951/181581784-021b71b9-c7f8-46b0-b61b-34676e593ac4.png)
-
-![Screenshot_1659022961](https://user-images.githubusercontent.com/86987951/181581831-2042bd32-0d80-440e-8e95-a8967c1795b0.png)
+<img src=https://user-images.githubusercontent.com/86987951/181581831-2042bd32-0d80-440e-8e95-a8967c1795b0.png width="400" height="790">
 
 ## Video 
 
